@@ -1,0 +1,193 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #287bd4;
+    height: 150vh;
+}
+.clearfix{clear:both}
+.resume-box{
+    width: 800px;
+    height: 1000px;
+    margin: 0 auto;
+    background-color: white;
+
+}
+.box-outer{
+    padding: 30px;
+
+}
+.box-1{
+    background-color: #2a225c;
+    width: 35%;
+    float: left;
+    height: 1000px;
+
+}.box-2{
+    width: 60%;
+    float: left;
+    padding: 20px;
+}
+.profile{
+    width: 100%;
+    margin-left: 30px;
+}
+.content{
+    padding: 0px;
+}
+.h1{
+    color: #ceced1;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400px;
+    text-transform: uppercase;
+}
+.content p{
+    width: 250px;
+}
+#progress{
+    background-color: #333;
+    border-radius: 13px;
+    height: 8px;
+    width: 100%;
+    padding: 3px;
+}
+#progress::after{
+    content:'' ;
+    display: block;
+    background-color: orange;
+    border-radius: 9px;
+    height: 8px;
+    width: 90%;
+    
+}
+#progress1{
+    background-color: #333;
+    border-radius: 13px;
+    height: 8px;
+    width: 100%;
+    padding: 3px;
+}
+#progress1::after{
+    content:'' ;
+    display: block;
+    background-color: orange;
+    border-radius: 9px;
+    height: 8px;
+    width: 60%;
+    
+}
+#progress2{
+    background-color: #333;
+    border-radius: 13px;
+    height: 8px;
+    width: 100%;
+    padding: 3px;
+}
+#progress2::after{
+    content:'' ;
+    display: block;
+    background-color: orange;
+    border-radius: 9px;
+    height: 8px;
+    width: 60%;
+    
+}
+#progress3{
+    background-color: #333;
+    border-radius: 13px;
+    height: 8px;
+    width: 100%;
+    padding: 3px;
+}
+#progress3::after{
+    content:'' ;
+    display: block;
+    background-color: orange;
+    border-radius: 9px;
+    height: 8px;
+    width: 70%;
+    
+}
+#progress4{
+    background-color: #333;
+    border-radius: 13px;
+    height: 8px;
+    width: 100%;
+    padding: 3px;
+}
+#progress4::after{
+    content:'' ;
+    display: block;
+    background-color: orange;
+    border-radius: 9px;
+    height: 8px;
+    width: 100%;
+    
+}
+.intro{
+    margin-left: 300px;
+    margin-top: -950px;
+    
+}
+.intro h1{
+   
+    font-size: 50px;
+    font-weight: bold;
+    color: #26252d;
+}
+.intro p{
+    font-size: 15px;
+    font-weight: 400px;
+    color: #7d7d7d;
+    font-family: system-ui; 
+}
+.intro p{
+    color: #7d7d7d;
+    font-weight: 400px;
+    font-family: system-ui;
+    font-size: 15px;
+    margin: 10px;
+}
+.content-2{
+    margin-left: 308px;
+}
+.head{
+    color: #26252d;
+    font-family: system-ui;
+    font-weight: 400px;
+    text-transform: uppercase;
+    margin: opx;
+}
+.para-1{
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #7d7d7d;
+    font-weight: 400;
+    margin: 15px 0px;
+
+}
+.para-2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #7d7d7d;
+    font-weight: 400;
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+.p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #7d7d7d;
+    font-weight: 400;
+    margin: 15px 0px;
+}
+.d{
+    font-size: 13px;
+    width: 300px;
+    text-transform: capitalize;
+    color: #287bd4;
+    font-weight: 400;
+    margin: 15px 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
