@@ -153,7 +153,7 @@ body{
 .head{
     color: #26252d;
     font-family: system-ui;
-    font-weight: 400px;
+    font-weight: 400px; 
     text-transform: uppercase;
     margin: opx;
 }
